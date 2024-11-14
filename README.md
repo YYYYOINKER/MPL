@@ -4,6 +4,8 @@ This repository contains my implementation of the exercises and examples from th
 
 ## Page Counter
 **Current Progress:** 107/611 pages
+233-C
+
 
 ## About the Project
 The "Crafting Interpreters" book is a comprehensive guide to implementing interpreters from scratch. This repository is dedicated to documenting my journey through the book, with the goal of understanding and building interpreters.
